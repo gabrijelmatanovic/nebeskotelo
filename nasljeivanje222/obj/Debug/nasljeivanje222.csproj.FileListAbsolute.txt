@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\bin\Debug\nasljeivanje222.exe.config
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\bin\Debug\nasljeivanje222.exe
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\bin\Debug\nasljeivanje222.pdb
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\obj\Debug\nasljeivanje222.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\obj\Debug\nasljeivanje222.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\obj\Debug\nasljeivanje222.exe
+C:\Users\Ucenik\source\repos\nasljeivanje222\nasljeivanje222\obj\Debug\nasljeivanje222.pdb
